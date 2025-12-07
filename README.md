@@ -193,7 +193,3 @@ Created by **MB Cyberworks**.
 ## 🛡 License
 MIT License — Use responsibly.
 
----
-
-## 🎯 Final Note
-If you want a logo, social preview image, or automatic GitHub Actions release workflow, I can add those too.
